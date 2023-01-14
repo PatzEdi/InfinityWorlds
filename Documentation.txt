@@ -1,0 +1,17 @@
+How does this work?
+
+This is a question most of you may be asking. 
+
+Well, the script itself uses chat GPT-3, open AI's well-known Ai for getting just about every piece of information available. HUGE credits to them.
+
+I combined ChatGPT-3's power into prompts. In the code, you can see something like:
+
+generate("Write an adventurous two sentences about being" + command + " in second person point of view")
+
+I basically gave prompts to the Chat GPT-3. I was surprised at how WELL it worked. It was pretty amazing.
+
+And that is why you should try it too! But before you do that, make sure to get an API key from openAI! Otherwise this will not work. 
+
+Get the api key here: https://openai.com/api/
+
+Thank you. If you have questions, create an Issue on the GitHub page!

@@ -23,7 +23,7 @@ HUGE Credits to the OpenAI team for Chat GPT-3 and to Shields.io for the badges 
 openAiapikey = '' #Paste your code in between these two apostrophes
 ```
 
-## **Written in python, made with OpenAI's Chat GPT-3 and passion. Welcome to the Infinity Worlds.**##
+## **Written in python, made with OpenAI's Chat GPT-3 and passion. Welcome to the Infinity Worlds.**
 
 ____________________________________________________________________________
 ##**Instructions**##

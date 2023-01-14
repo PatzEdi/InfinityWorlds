@@ -26,7 +26,7 @@ openAiapikey = '' #Paste your code in between these two apostrophes
 ## **Written in python, made with OpenAI's Chat GPT-3 and passion. Welcome to the Infinity Worlds.**
 
 ____________________________________________________________________________
-##**Instructions**##
+## **Instructions**
 - Clone the repo.
 - Enter the projects directory, enter the src directory, execute the game:
 ```
@@ -42,7 +42,7 @@ python3 InfinityWorlds.py
 ```
 - Enjoy!
 ____________________________________________________________________________
-##**Demo**##
+## **Demo**
 ![InfinityWorldsDemo](https://user-images.githubusercontent.com/116693779/212456797-8566fa9e-6bba-4cd6-89e4-db7294a951e0.gif)
 ____________________________________________________________________________
 ## **Features**

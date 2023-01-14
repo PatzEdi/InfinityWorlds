@@ -1,6 +1,8 @@
 # InfinityWorlds
 Welcome to InfinityWorlds, a text-based adventure with infinite possibilities, made with the power of Chat GPT-3.
 
+![InfinityWorldsLogo](https://user-images.githubusercontent.com/116693779/212456772-3084af4b-cbe2-44c9-b356-7268b88faa0e.png)
+
 <p align="center">
 	<img src="https://img.shields.io/badge/license-GPL%203.0-brightgreen"
 		height="23">
@@ -39,6 +41,9 @@ cd src
 python3 InfinityWorlds.py
 ```
 - Enjoy!
+____________________________________________________________________________
+##**Demo**##
+![InfinityWorldsDemo](https://user-images.githubusercontent.com/116693779/212456797-8566fa9e-6bba-4cd6-89e4-db7294a951e0.gif)
 ____________________________________________________________________________
 ## **Features**
 - An infinite amount of possibilities - yes, literally.

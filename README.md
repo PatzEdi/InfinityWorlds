@@ -12,6 +12,9 @@ Welcome to InfinityWorlds, a text-based adventure with infinite possibilities, m
 		height="23">
 </p>
 
+## **IMPORTANT NOTICE:**
+Due to some changes made at openAI and the introduction of Chat GPT-4, InfinityWorlds will most likely be revised and made better with more features and it being easier to use overall. If you experience any errors with the current version, stay tuned for the possibly upcoming major update! Thanks!
+
 DISCLAIMER: You NEED an OpenAI API Key to make this work! You can get one at:  https://openai.com/api/ 
 
 HUGE Credits to the OpenAI team for Chat GPT-3 and to Shields.io for the badges on the README.md!

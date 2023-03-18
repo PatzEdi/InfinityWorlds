@@ -13,7 +13,7 @@ Welcome to InfinityWorlds, a text-based adventure with infinite possibilities, m
 </p>
 
 ## **IMPORTANT NOTICE AS OF MARCH, 2023**
-Due to some changes made at OpenAI and the introduction of Chat GPT-4, InfinityWorlds will most likely be revised and made better with more features and it being easier to use overall. If you experience any errors with the current version, stay tuned for the possibly upcoming major update! Thanks!
+**Due to some changes made at OpenAI and the introduction of Chat GPT-4, InfinityWorlds will most likely be revised and made better with more features and it being easier to use overall. If you experience any errors with the current version, stay tuned for the possibly upcoming major update! Thanks!**
 
 DISCLAIMER: You NEED an OpenAI API Key to make this work! You can get one at:  https://openai.com/api/ 
 

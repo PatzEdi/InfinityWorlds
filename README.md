@@ -9,7 +9,7 @@ Welcome to InfinityWorlds, a configurable and customizable text-based adventure 
 		height="23">
 	<img src="https://img.shields.io/badge/Creator-PatzEdi-brightgreen"
 		height="23">
-	<img src="https://img.shields.io/badge/Latest%20Version-V%201.0-brightgreen"
+	<img src="https://img.shields.io/badge/Latest%20Version-V%202.0-brightgreen"
 		height="23">
 </p>
 

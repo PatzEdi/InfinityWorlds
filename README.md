@@ -1,5 +1,5 @@
 # InfinityWorlds
-Welcome to InfinityWorlds, a configurable and customizable text-based adventure with infinite possibilities, made with the power of OpenAI and their powerful GPT models.
+Welcome to InfinityWorlds, a configurable and customizable text-based adventure with infinite possibilities, made with the power of OpenAI and their powerful GPT language models.
 
 ![infinity-worlds-v2-logo](https://github.com/PatzEdi/GeneralGithubRepoTesting/assets/116693779/d35a997d-f114-4851-aac9-3faab2b7ae6d)
 

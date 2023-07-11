@@ -215,6 +215,7 @@ ____________________________________________________________________________
 - Get your own API key from: https://openai.com/api/
 - This project is a project I made for fun for myself, and now for others.
 - **If you are on Windows, refer to [this article](https://replit.com/talk/learn/ANSI-Escape-Codes-in-Python/22803) to enable ANSI color coding in your terminal.**
+- Logos may not render correctly if they can not fit. If they do not fit, zoom out.
 - New features will most likely come soon :)
 ____________________________________________________________________________
 ## **Services used (Credits):**

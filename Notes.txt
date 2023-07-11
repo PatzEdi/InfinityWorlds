@@ -1,22 +1,26 @@
 #CREATED BY PATZ EDI
 
-##DISCLAIMER: This scripts needs an openAI Key to run! (Uses chat GPT-3)##
+##DISCLAIMER: This scripts needs an openAI Key to run! (Uses GPT)##
 ##Head over to: https://openai.com/api/ in order to get one there!##
 
 Welcome to Infinity Worlds!
 
-This is a fun little project I had always wanted to make. 
+Infinity Worlds is a terminal-run, text-based adventure game powered by AI. It features memorization (so it won't lose previous content), which is now improved in version V2. 
 
-I always wanted to make my own version of these text-based adventures and share it to everyone, especially now that most people have access to OpenAi's api keys.
+Not only that, but InfinityWorlds gives you full control over its appearance and behavior. Using the .IWconfig.json file stored in your $HOME directory, you can edit everything from colors, in-game strings, choose to disable or enable componenets of the game (such as animations), customize certain commands, define your custom save path to save stories, and much more.
+
+More info on that under the README file.
+
+This is a fun project I had always wanted to make. 
+
+I always wanted to make my own version of these text-based adventures and share it to everyone, especially now that most people have access to OpenAI's API keys.
 
 In this game, you enter a world of infinite possibilities. More information on that on the README file.
 
-I am hoping this will bring fun and adventure to your free time. It is created with passion by PatzEdi.
-
-Please note, I am doing this for fun purposes and to test out the capabilities of openAi's Chat GPT-3. HUGE credits to them and what they have done. They are the reason this project exists.
+I am hoping this will bring fun and adventure to your free time. It is created with passion by me.
 
 Created an issue on GitHub if you have concerns about this project, and what I can improve! We are all learning here!
 
 Please, share this project around if you would like to. It helps a lot!
 
-Thanks!!
+Thanks!

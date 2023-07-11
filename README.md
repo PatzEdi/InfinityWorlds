@@ -19,7 +19,7 @@ Thank you OpenAI for providing the API to your GPT models :)
 
 ## **Written in python, made with OpenAI's GPT models and passion. Welcome to the Infinity Worlds.**
 
-InfinityWorlds V2 introduces a fully configurable and customizable experience, with the ability to edit colors and styles edit in-game strings, disabling/enabling certain features, and much more. You can refer to the [Usage](#Usage) section below, which explains how to use these new features.
+InfinityWorlds V2 introduces a fully configurable and customizable experience, with the ability to edit colors and styles, edit in-game strings, disabling/enabling certain features, and much more. You can refer to the [Usage](#Usage) section below, which explains how to use these new features.
 
 ____________________________________________________________________________
 ## **Instructions**

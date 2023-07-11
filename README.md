@@ -177,7 +177,7 @@ The initialInstructions variable is what you will see upon entering the story. Y
 
 disableAnimations will disable all animations. This includes disabling the consecutive printing of single characters of a string, and will rather print out a whole string instantly.
 
-disableActivityRecaps is an option that if enabled will display the activity of your chosen action in the story right after your hit enter. It converts your action in second person as a recap of what you decided to do.
+disableActivityRecaps is an option that if enabled will display the activity of your chosen action in the story right after your hit enter. It converts your action in second person as a recap of what you decided to do. Please keep in mind that enabling this option sends a request through the API, leading to possible cost increases.
 
 animationSpeed is used to edit the speed of animations. When strings (assuming disableAnimations = False) are rendered, the lower the animations speed, the faster the rendering. The higher the animation speed, the slower the rendering.
 

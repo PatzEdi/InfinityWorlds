@@ -230,6 +230,7 @@ ____________________________________________________________________________
 - [Random Module](https://docs.python.org/3/library/random.html)
 - [replit.com](https://replit.com/talk/learn/ANSI-Escape-Codes-in-Python/22803) This was really useful, big credits to replit.com!
 - [GeeksForGeeks](https://www.geeksforgeeks.org/print-colors-python-terminal/#) This was also very useful, thank you GeeksForGeeks!
+- [Logos](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) Thank you for the styles!
 ____________________________________________________________________________
 ## **Make sure to leave a star!**
 - I hope you like project! If you did, leaving a star is more than enough and greatly appreciated!

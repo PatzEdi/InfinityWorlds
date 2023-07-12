@@ -13,7 +13,7 @@ Welcome to InfinityWorlds, a configurable and customizable text-based adventure 
 		height="23">
 </p>
 
-DISCLAIMER: As of now, you need an OpenAI key in order to run InfinityWorlds. I have been trying to think of a way to provide one API key for everyone. If you have any ideas of how I could do such a thing, feel free to create an issue. For now, you can get you API key at: https://openai.com/api/ 
+DISCLAIMER: As of now, you need an OpenAI key in order to run InfinityWorlds. I have been trying to think of a way to provide one API key for everyone. If you have any ideas of how I could do such a thing, feel free to create an issue. For now, you can get your API key at: https://openai.com/api/ 
 
 Thank you OpenAI for providing the API to your GPT models :)
 
@@ -111,13 +111,13 @@ ____________________________________________________________________________
 
 **InfinityWorlds V2 consists of a new config file named .IWconfig.json that is created under your $HOME directory. It is a hidden (.) file. In order to access it, enable hidden files in your file viewer.**
 
-This configuration file contains all of the customizable elements that your can change to your liking. Let's get into how you can use this config file.
+This configuration file contains all of the customizable elements that you can change to your liking. Let's get into how you can use this config file.
 
 As soon as you clone InfinityWorlds and run InfinityWorlds.py, a configuration file will be created. On this first run, you should see an error saying "ERR: An Open AI API Key must be..." and so on.
 
-Open the .IWconfig.json. If you can't find it in your home directory, make sure hidden files are enabled in you file manager.
+Open the .IWconfig.json. If you can't find it in your home directory, make sure hidden files are enabled in your file manager.
 
-As soon as you open you .IWconfig.json file, you will see something like this:
+As soon as you open your .IWconfig.json file, you will see something like this:
 
 ```
 	{

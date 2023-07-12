@@ -17,6 +17,8 @@ DISCLAIMER: As of now, you need an OpenAI key in order to run InfinityWorlds. I 
 
 Thank you OpenAI for providing the API to your GPT models :)
 
+**AND, Huge thank you to @Sembauke, @DeadSue, @ELTANTAWI, @mikudae, and @fablau, for starring InfinityWorlds.**
+
 ## **Written in python, made with OpenAI's GPT models and passion. Welcome to the Infinity Worlds.**
 
 InfinityWorlds V2 introduces a fully configurable and customizable experience, with the ability to edit colors and styles, edit in-game strings, disabling/enabling certain features, and much more. You can refer to the [Usage](#Usage) section below, which explains how to use these new features.

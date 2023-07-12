@@ -1,7 +1,7 @@
 # InfinityWorlds
 Welcome to InfinityWorlds, a configurable and customizable text-based adventure with infinite possibilities, made with the power of OpenAI and their powerful GPT language models.
 
-![infinity-worlds-v2-logo](https://github.com/PatzEdi/GeneralGithubRepoTesting/assets/116693779/d35a997d-f114-4851-aac9-3faab2b7ae6d)
+![infinity-worlds-v2-logo](https://github.com/PatzEdi/InfinityWorlds/assets/116693779/a60485e1-2722-4cc7-93e4-1538a2f61576)
 
 
 <p align="center">
@@ -46,14 +46,17 @@ ____________________________________________________________________________
 ## **Demo**
 (Apologies for the quality)
 
-![Demo3 (1) copy](https://github.com/PatzEdi/GeneralGithubRepoTesting/assets/116693779/eacd2ab5-4089-4ffd-9114-3a08473ab3c9)
+![Demo3 (1)](https://github.com/PatzEdi/InfinityWorlds/assets/116693779/0e63ed36-4ee5-4de5-93dd-51739431d031)
 
 ## **Custom Theme Support (V2)**
 Here are a few theme examples:
 
-<img width="1440" alt="Screenshot 2023-07-10 at 9 11 56 PM" src="https://github.com/PatzEdi/GeneralGithubRepoTesting/assets/116693779/654dc562-f432-4234-ac86-764ff0bcadae">
+<img width="1440" alt="Screenshot 2023-07-11 at 12 22 40 PM" src="https://github.com/PatzEdi/InfinityWorlds/assets/116693779/14a72cdf-31cd-419a-a9b7-22c387c0b931">
 
-<img width="1440" alt="Screenshot 2023-07-11 at 12 22 40 PM" src="https://github.com/PatzEdi/GeneralGithubRepoTesting/assets/116693779/6db3f8d1-96e8-4a13-8b9a-8094794e21a9">
+<img width="1440" alt="Screenshot 2023-07-11 at 9 44 43 AM" src="https://github.com/PatzEdi/InfinityWorlds/assets/116693779/0f0d1b45-02b2-4a1b-b22e-3af5fdc23524">
+
+<img width="1440" alt="Screenshot 2023-07-10 at 9 11 56 PM" src="https://github.com/PatzEdi/InfinityWorlds/assets/116693779/6ddcf994-7b66-40bb-a149-32362e144297">
+
  
 ____________________________________________________________________________
 ## **Features**

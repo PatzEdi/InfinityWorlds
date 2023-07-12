@@ -43,7 +43,35 @@ python3 InfinityWorlds.py
 ```
 - Enjoy!
 
-**If you want to automate running InfinityWorlds (For example, you open a terminal window and want to run it directly without having to manually enter the project files), you can put the IW.sh shell script under your HOME directory and make it executable. It will automatically enter InfinityWorlds stored in your HOME directory and launch it for you. Once your make it executable with chmod +x, you can run it within seconds by running ./IW.sh from your HOME path.**
+**If you want to automate running InfinityWorlds (For example, you open a terminal window and want to run it directly without having to manually enter the project files), you can follow these steps:**
+
+1. Enter the root project files:
+
+```
+cd $HOME/InfinityWorlds/
+```
+
+2. Put the IW.sh shell script under your HOME directory:
+
+```
+mv IW.sh $HOME
+```
+3. Go back to the HOME directory:
+
+```
+cd $HOME
+```
+
+4. Make the IW.sh shell script executable:
+
+```
+chmod +x IW.sh
+```
+5. Now, when you are in your HOME directory, you can directly call InfinityWorlds by running:
+
+```
+./IW.sh
+```
 ____________________________________________________________________________
 ## **Demo**
 

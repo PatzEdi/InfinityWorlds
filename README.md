@@ -239,8 +239,8 @@ ____________________________________________________________________________
 - I loved the concept of other apps such as AI Dungeon. They were great. But then... it became worse overtime. So I decided to remake my version, from scratch! Was it worth it? Totally. Especially because I did this in order to figure out on my own how they actually did this through the process of doing it on my own, it is super interesting.
 ____________________________________________________________________________
 ## **How?**
-- I "fed" the AI prompts that I created on my own. For example, I told it to write about the inputted sentences the user put in, continue the story, and most importantly, write it in second person POV.
-- You may be asking, does this Infinity Worlds project actually memorize what is happening and what happened in the past of the story? Yes! It does! And I did this by creating a list and appending all of the information of the story into the list and then feeding the AI with that list plus the new information given by the user. It works perfectly, and it is a great way for the AI to look back on things such as names, places, and the story's history in general from any point in the story!
+- I "fed" the GPT prompts that I created on my own. For example, I told it to write about the inputted sentences the user put in, continue the story, and most importantly, write it in second person POV.
+- Memorization of past details and actions is done by summarizing what happened in the previous action. The summary is then fed in the GPT and an accurate output is generated. 
 - OpenAI and their GPT AI Models are super impressive. They made this and other projects come to life, just like your imagination will when you play this!
 ____________________________________________________________________________
 ## **User notice**

@@ -200,7 +200,7 @@ Starting from the top of the JSON configuration, you can see the IWSettings sect
 
 Let's take a look at the exampleTheme1 configuration. 
 
-At first, you will see the "openAIAPIKey" variable in the configuration. In between the two quotation marks, you can paste your OpenAI API key there. Once you do that, you can run InfinityWorlds with the exampleTheme1 configuration (by putting exampleTheme1 in the mainTemplate section under IWSettings), and InfinityWorlds will run with no problems. Do keep in mind, you must provide an API key for each configuration you use, as you may want to use a specific API key for some configurations (Of course, you can always use the same one)
+At first, you will see the "openAIAPIKey" variable in the configuration. In between the two quotation marks, you can paste your OpenAI API key there. Once you do that, you can run InfinityWorlds with the exampleTheme1 configuration (by putting exampleTheme1 in the mainTemplate section under IWSettings), and InfinityWorlds will run with no problems. Do keep in mind, you must provide an API key for each configuration you use, as you may want to use a specific API key for some configurations (of course, you can always use the same one)
 
 After the API key, you will see the ability to change your GPT model. It is recommended that you use the default (gpt-3.5-turbo), as it is fast, works super well, and super cheap compared to other models. Of course, you can change it to your liking.
 
@@ -214,7 +214,7 @@ disableActivityRecaps is an option that if enabled will display the activity of 
 
 animationSpeed is used to edit the speed of animations. When strings (assuming disableAnimations = False) are rendered, the lower the animations speed, the faster the rendering. The higher the animation speed, the slower the rendering.
 
-UITextColor is a parameter that can be used to customize the UI text color. The UI includes all strings other than the story and the logo. If you want to use a color, you can refer to the [colors](src/colors.py) file to see all colors/styles. By default, the example theme as the color colors.textColor.pink, which is pink.
+UITextColor is a parameter that can be used to customize the UI text color. The UI includes all strings other than the story and the logo. If you want to use a color, you can refer to the [colors](src/colors.py) file to see all colors/styles. By default, the example theme has the color colors.textColor.pink, which is pink.
 
 UITextStyle is used to add a style to your text. You can make a text bold, or underlined, etc. You can apply these styles as they are applied in the exampleTheme1 configuration, like so: colors.style.bold. The UI will have bolded text. Again, view [colors](src/colors.py) for a full list of styles/colors.
 

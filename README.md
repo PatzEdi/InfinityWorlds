@@ -198,7 +198,7 @@ Starting from the top of the JSON configuration, you can see the IWSettings sect
 
 **In other words, the IWSettings section is solely used by InfinityWorlds to choose the configuration you want to use on start**
 
-Lets take a look at the exampleTheme1 configuration. 
+Let's take a look at the exampleTheme1 configuration. 
 
 At first, you will see the "openAIAPIKey" variable in the configuration. In between the two quotation marks, you can paste your OpenAI API key there. Once you do that, you can run InfinityWorlds with the exampleTheme1 configuration (by putting exampleTheme1 in the mainTemplate section under IWSettings), and InfinityWorlds will run with no problems. Do keep in mind, you must provide an API key for each configuration you use, as you may want to use a specific API key for some configurations (Of course, you can always use the same one)
 

@@ -37,9 +37,15 @@ class textColor:
 
     #Here is an example of a custom color:
     electricblue = rgb(64, 110, 247)
-    
-    white = rgb(255, 255, 255)
 
+    white = rgb(255, 255, 255)
+    
+    #Some pastel colors :)
+    pastelblue = rgb(143, 196, 156)
+    pastelpink = rgb(196, 143, 161)
+    pastelyellow = rgb(227, 227, 120)
+    pastelorange = rgb(217, 158, 132)
+    pastelgreen = rgb(139, 217, 149)
 #Background highlights:
 class backgroundColor:
     black = '\033[40m'

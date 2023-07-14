@@ -204,7 +204,7 @@ while True:
 		clearscreen()
 		print("\nInfinityWorlds brings you a configurable and fully customizable experience to enjoy creating limitless amounts of stories. This is a fun project I wanted to make. I always wanted to make one of these AI text adventures, and now with InfinityWorlds V2, the experience is just even better :)\n\nCreated with passion by PatzEdi, and of course, OpenAI and their GPT models (HUGE credits to the Chat GPT team over at OpenAI!)")
 
-		input("\nPress any key to go back to the Main Menu: ")
+		input("\nPress ENTER to go back to the Main Menu: ")
 	elif MainMenu == 0:
 		delay_print("\nYou are leaving the worlds...", animationSpeed, disableAnimations = disableAnimations)
 		exit()

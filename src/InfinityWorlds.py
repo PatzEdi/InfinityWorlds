@@ -175,7 +175,13 @@ while True:
 					saveToFile = input("\nSave story to file? ( (1) Yes / (2) No ): ")
 
 					if int(saveToFile) == 1:
-						saveStoryToFile(promptcontents, storySavePath)
+						saved = False
+						while saved == False:
+							try:
+								saveStoryToFile(promptcontents, storySavePath)
+								saved = True
+							except:
+								storySavePath = input("\nERR: Error saving file at destination provided. Provide a new location: ")
 				delay_print("\nExiting the story due to an unexpected interrupt...", animationSpeed, disableAnimations = disableAnimations)
 				break
 			#Prompt to give to AI (Add the summary, and what happens next:)

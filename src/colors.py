@@ -37,6 +37,8 @@ class textColor:
 
     #Here is an example of a custom color:
     electricblue = rgb(64, 110, 247)
+    
+    white = rgb(255, 255, 255)
 
 #Background highlights:
 class backgroundColor:

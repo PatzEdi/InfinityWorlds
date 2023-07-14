@@ -88,9 +88,9 @@ def importConfig(templateName, filePath, isSettings = False):
             
             #If the colors are left blank in the config file, then make them white (standard)
             if UITextColor == '':
-                UITextColor = "colors.style.reset"
+                UITextColor = "colors.textColor.white"
             if StoryTextColor == '':
-                StoryTextColor = "colors.style.reset"
+                StoryTextColor = "colors.textColor.white"
             if LogoColor == '':
                 LogoColor = "colors.style.reset"
             

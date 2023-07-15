@@ -130,18 +130,3 @@ def convertStringToCallableClass(string):
     instance = class_object
     # Example usage
     return instance
-
-
-
-
-#First step, create the config file:
-# createConfigFile()
-
-# # #Second step, read the contents of the config file:
-
-# # #Template name will be imported from the argparser (as InfinityWorlds will become a CLI tool.)
-
-# templateName = "withoutAnimations"
-# openAIAPIKey, skipIntro, disableAnimations = importConfig(templateName, os.path.join(getHomeDirectory(), ".IWconfig.json"))
-
-# print(skipIntro, disableAnimations)

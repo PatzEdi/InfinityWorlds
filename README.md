@@ -263,4 +263,4 @@ ____________________________________________________________________________
 - [Logos](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) Thank you for the styles!
 ____________________________________________________________________________
 ## **Make sure to leave a star!**
-- I hope you like project! If you did, leaving a star is more than enough and greatly appreciated!
+- I hope you like this project! If you did, leaving a star is more than enough and greatly appreciated!

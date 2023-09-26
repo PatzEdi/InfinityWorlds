@@ -17,7 +17,7 @@ DISCLAIMER: As of now, you need an OpenAI key in order to run InfinityWorlds. I 
 
 Thank you OpenAI for providing the API to your GPT models :)
 
-**AND, Huge thank you to [@Sembauke](https://github.com/Sembauke), [@DeadSue](https://github.com/DeadSue), [@ELTANTAWI](https://github.com/ELTANTAWI), [@mikudae](https://github.com/mikudae), and [@fablau](https://github.com/fablau), for starring InfinityWorlds.**
+**AND, Huge thank you to [@Sembauke](https://github.com/Sembauke), [@DeadSue](https://github.com/DeadSue), [@Tudr16](https://github.com/Tudr16), [@ELTANTAWI](https://github.com/ELTANTAWI), [@mikudae](https://github.com/mikudae), and [@fablau](https://github.com/fablau), for starring InfinityWorlds.**
 
 ## **Written in python, made with OpenAI's GPT models and passion. Welcome to the Infinity Worlds.**
 

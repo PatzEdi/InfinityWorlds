@@ -100,7 +100,7 @@ Version V2 Introduces a plethora of New Features:
 - Custom themes with the ability to choose custom colors and styles for in-game text.
 - Ability to edit certain in-game strings. If you don't like some UI strings, you can change them.
 - Ability to disable/enable: introduction, animations, activity recaps, and the in-game logo (logo is also introduced in V2).
-- Ability to choose your own custom GPT model (default = gpt-3.5-turbo, as this model is sufficient for InfinityWorlds to work well, and is super cheap.
+- Ability to choose your own custom GPT model (default = gpt-3.5-turbo, as this model is sufficient for InfinityWorlds to work well, and is super cheap).
 - A custom quit command, as well as a custom animation speed
 - Ability to save your stories to a custom directory (If a directory is provided)
 - Ability to create an unlimited amount of configurations through the .IWconfig.json file (more info on that below under the [Usage](#Usage) section of this guide)

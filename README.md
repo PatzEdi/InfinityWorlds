@@ -13,6 +13,9 @@ Welcome to InfinityWorlds, a configurable and customizable text-based adventure 
 		height="23">
 </p>
 
+## Note:
+### **I am aware of the openai 1.0.0 refactoring changes, which, if openai 1.0.0 is installed on your system, will make InfinityWorlds not work. This will be fixed in the future, but I am focusing on other things right now.**
+
 DISCLAIMER: As of now, you need an OpenAI key in order to run InfinityWorlds. I have been trying to think of a way to provide one API key for everyone. If you have any ideas of how I could do such a thing, feel free to create an issue. For now, you can get your API key at: https://openai.com/api/ 
 
 Thank you OpenAI for providing the API to your GPT models :)
